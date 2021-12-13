@@ -17,7 +17,12 @@
 
 - 🔭 I’m currently working on React.js projects, Frontend web development projects
 
-  - 🌱 I’m currently learning React.js, Next.js, Tailwind CSS <a href="https://www.youtube.com/"> google </a> 
+  - 🌱 Check some of my recent projects :
+     ⚡<a href="http://bingeon-2.vercel.app/">BingeOn</a>
+     ⚡<a href="https://search-monke1.vercel.app/">Serach Monke</a>
+     ⚡<a href="https://voyage-1.vercel.app/">Voyage</a>
+  
+  scroll down to see the repositories and about :)
 
 - 👯 I’m looking to collaborate on Projects, Internships 
 
