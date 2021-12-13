@@ -5,7 +5,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Avik181)
 
 </p>
 <div size='20px'> Hi! My name is Avik Baidya. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -18,7 +17,7 @@
 
 - 🔭 I’m currently working on React.js projects, Frontend web development projects
 
-- 🌱 I’m currently learning React.js, Next.js, Tailwind CSS 
+  - 🌱 I’m currently learning React.js, Next.js, Tailwind CSS <a href="google.com"> google </a> 
 
 - 👯 I’m looking to collaborate on Projects, Internships 
 
