@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://github.com/Avik181/bingeon-2/blob/master/public/Hi!%20fellow%20developers.png" alt="cover" />
+<img width="100%" height = "300px" src="https://github.com/Avik181/bingeon-2/blob/master/public/Hi!%20fellow%20developers.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
