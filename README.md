@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on React.js projects, Frontend web development projects
 
-  - 🌱 I’m currently learning React.js, Next.js, Tailwind CSS <a href="google.com"> google </a> 
+  - 🌱 I’m currently learning React.js, Next.js, Tailwind CSS <a href="https://www.youtube.com/"> google </a> 
 
 - 👯 I’m looking to collaborate on Projects, Internships 
 
